@@ -6,11 +6,11 @@ A collection of solution for the app from GooglePlay Store IdeaBag2 To Explore .
 
 + WorkingWithNumbers
   1. ReadMe
-+ Working With Text
++ WorkingWithText
   1. ReadMe
 + NetWorking
   1. ReadMe
-+ Enterprise Application
++ EnterpriseApplication
   1. ReadMe
 + Threading
   1. ReadMe
