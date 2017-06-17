@@ -18,7 +18,7 @@ List of All Categories:
 *All the ideas behind exercises inside this repository are taken from this app on google play store: 
 https://play.google.com/store/apps/details?id=com.alansa.ideabag2&hl=it *
  
-**All the content inside this Repository is under: ** [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
+**All the content inside this Repository is under:** [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
 
 ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg) "Beginner"
 ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg) "Intermediate"
