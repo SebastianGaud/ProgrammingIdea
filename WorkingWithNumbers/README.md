@@ -1,4 +1,5 @@
- # List of All Exercise Inside Numbers Category
+ # List of All Exercise Inside Numbers Category:
+ 
 - [ ] Distance Between Two Cities ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
 - [ ] Tax Calculator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
 - [ ] Factorial Finder ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
