@@ -1,6 +1,6 @@
 # List of All Exercise Inside Threading Category :
-- [ ] Download Manager (Expert)
-- [ ] Create A Progress Bar for Download (Intermediate)
-- [ ] Chat Application (remotin style) (Intermediate)
-- [ ] Bulk Thumbnail Creator (Intermediate)
-- [ ] Multi-Threaded Logger (Beginner)
+- [ ] Download Manager ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
+- [ ] Create A Progress Bar for Download ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+- [ ] Chat Application (remotin style) ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+- [ ] Bulk Thumbnail Creator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+- [ ] Multi-Threaded Logger ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
