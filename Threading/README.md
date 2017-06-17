@@ -3,4 +3,4 @@
 - [ ] Create A Progress Bar for Download ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
 - [ ] Chat Application (remotin style) ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
 - [ ] Bulk Thumbnail Creator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Multi-Threaded Logger ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)!
+- [ ] Multi-Threaded Logger ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
