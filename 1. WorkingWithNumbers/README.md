@@ -1,6 +1,6 @@
  # List of All Exercise Inside Numbers Category:
  
- # ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
+ ### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
 
 - [ ] Distance Between Two Cities 
 - [ ] Tax Calculator 
@@ -18,7 +18,7 @@
 - [ ] Lotto 
 - [ ] Roman to Arabic numeral converter 
 
-# ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
 
 - [ ] Calculator 
 - [ ] Mortgage Calculator 
@@ -36,7 +36,7 @@
 - [ ] Circular Primes 
 - [ ] Pseudo-Random Number Generator 
 
-# ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
 
 - [ ] Newtonian Gravity Simulation 
 - [ ] Household Budget Program 
