@@ -19,10 +19,12 @@ List of All Categories:
 https://play.google.com/store/apps/details?id=com.alansa.ideabag2&hl=it*
  
 **All the content inside this Repository is under:** [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
+**All the content inside this Repository is under:** ![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)
 
 
 Legend:
 
+## Legend:
 
 Beginner exercises are preceded by: 
 
