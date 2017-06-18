@@ -1,18 +1,24 @@
 # List of All Exercise Inside Web Category :
-- [ ] WYSIWG (What you see is what you get) Editor ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Web Browser with Tabs ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Page Scraper ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] File Downloader ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Telnet Application ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Bandwidth Monitor ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Bookmark Collector and Sorter ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Password Safe ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Scheduled Auto Login and Action ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] E-card Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Content Management System ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] CAPTCHA Maker ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Web Board (Forum) ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Alarm Clock ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Random Youtube Video Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] SQL Injection checker ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Simple forums ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+
+- [ ] WYSIWG (What you see is what you get) Editor 
+- [ ] Web Browser with Tabs 
+- [ ] Page Scraper 
+- [ ] File Downloader 
+- [ ] Telnet Application 
+- [ ] Password Safe 
+- [ ] Scheduled Auto Login and Action 
+- [ ] E-card Generator 
+- [ ] Simple forums 
+
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
+
+- [ ] Bandwidth Monitor 
+- [ ] Bookmark Collector and Sorter 
+- [ ] Content Management System 
+- [ ] CAPTCHA Maker 
+- [ ] Web Board (Forum) 
+- [ ] Alarm Clock 
+- [ ] Random Youtube Video Generator 
+- [ ] SQL Injection checker 

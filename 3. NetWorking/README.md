@@ -1,16 +1,22 @@
 # List of All Exercise Inside NetWorking Category:
-- [ ] Fetch Current Weather ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Chat Application (IRC or MSN Style) ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] P2P File Shering App ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] FTP Program ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Port Scanner ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Mail Checker (POP3/IMAP) ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Packet Sniffer ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Country from IP Lookup ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Whois Search Tool ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Zip / Postal Code Lookup ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Remote Login ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Site Checker with Time Scheduling ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Small Web Server ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Web Bot ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Get Atomic Time from Internet Clock ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+
+- [ ] Fetch Current Weather 
+- [ ] Port Scanner 
+- [ ] Mail Checker (POP3/IMAP) 
+- [ ] Country from IP Lookup 
+- [ ] Whois Search Tool 
+- [ ] Zip / Postal Code Lookup 
+- [ ] Site Checker with Time Scheduling 
+- [ ] Get Atomic Time from Internet Clock 
+
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
+
+- [ ] Chat Application (IRC or MSN Style) 
+- [ ] P2P File Shering App 
+- [ ] FTP Program 
+- [ ] Packet Sniffer 
+- [ ] Remote Login 
+- [ ] Small Web Server 
+- [ ] Web Bot 

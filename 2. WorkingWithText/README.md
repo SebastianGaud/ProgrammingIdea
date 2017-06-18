@@ -1,35 +1,45 @@
 # List of All Exercise Inside Text Category:
 
-- [ ] RSS Feed Creator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Morse Code Maker ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Guestbook / Journal ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] News Ticker and Games Scores ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Random Gift Suggestion ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Text to HTML Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Pig Latin ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Rovarspraket ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Disemvoweler ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] In Order ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Typoglycemia ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Regex Query Tool ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Fizz Buzz ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Reverse a String ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Count Vowels ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Check if Palindrome ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Count Words in a String ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Text Editor ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] CD Key Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Stock Tracker ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Post it Notes ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Horoscope Teller ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Wandering Fingers ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Half the String ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] MD5 Hash Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Caesar's Cipher ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Calculator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Child Name Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Spelling With Chemistry ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Voodlewoodlel ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Scooby Doo ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Password Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Approximate String Matching ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
+
+- [ ] Guestbook / Journal 
+- [ ] Fizz Buzz 
+- [ ] Reverse a String 
+- [ ] Count Vowels 
+- [ ] Check if Palindrome 
+- [ ] Count Words in a String 
+- [ ] Half the String 
+- [ ] Voodlewoodlel 
+- [ ] Approximate String Matching 
+
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+
+
+- [ ] RSS Feed Creator 
+- [ ] Morse Code Maker 
+- [ ] News Ticker and Games Scores 
+- [ ] Random Gift Suggestion 
+- [ ] Text to HTML Generator 
+- [ ] Rovarspraket 
+- [ ] Disemvoweler 
+- [ ] In Order 
+- [ ] Typoglycemia 
+- [ ] Regex Query Tool 
+- [ ] CD Key Generator 
+- [ ] Stock Tracker 
+- [ ] Post it Notes 
+- [ ] Horoscope Teller 
+- [ ] Wandering Fingers 
+- [ ] MD5 Hash Generator 
+- [ ] Caesar's Cipher 
+- [ ] Calculator 
+- [ ] Spelling With Chemistry 
+- [ ] Scooby Doo 
+- [ ] Password Generator 
+
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
+
+- [ ] Child Name Generator 
+- [ ] Text Editor 
+- [ ] Pig Latin 
+

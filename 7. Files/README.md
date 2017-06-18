@@ -1,17 +1,26 @@
 # List of All Exercise Inside Files Category:
-- [ ] Quiz Maker ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Sort File Records Utility ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Quick Launcher ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] File Explorer ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Add Transaction In File and Find Averages ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Create Zip File Maker ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Bulk Renamer and Organizer ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] PDF Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Mp3 Tagger ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Log File Maker ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Excel Spreadsheet Exporter ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] RPG Character Stat Creator ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Image Map Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] File Copy Utility ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Code Snippet Manager ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Versioning Manager ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
+
+- [ ] Sort File Records Utility 
+
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+
+- [ ] Quiz Maker
+- [ ] Add Transaction In File and Find Averages 
+- [ ] Create Zip File Maker 
+- [ ] Bulk Renamer and Organizer  
+- [ ] Quick Launcher 
+- [ ] Image Map Generator 
+- [ ] File Copy Utility 
+- [ ] Code Snippet Manager 
+- [ ] Versioning Manager 
+- [ ] Log File Maker 
+
+### ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
+
+- [ ] File Explorer 
+- [ ] PDF Generator 
+- [ ] Mp3 Tagger 
+- [ ] Excel Spreadsheet Exporter 
+- [ ] RPG Character Stat Creator 
