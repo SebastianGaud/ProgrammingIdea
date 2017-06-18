@@ -1,7 +1,7 @@
 # ProgrammingIdea
 A collection of solution for the app from GooglePlay Store IdeaBag2 To Explore .NetCore
 
-#One line Added
+![Difficulty Type](https://img.shields.io/badge/Programming%20For-Passion%20and%20Joy-blue.svg)
 
 List of All Categories: 
 
@@ -36,7 +36,4 @@ Expert exercises are preceded by:
 ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
 
 _I Took all things as it is in the app, so i can't say this exercises are really for Beginner or expert or whatever else programmer, for consistency with the app i left them so._
-
-![Difficulty Type](https://img.shields.io/badge/Programming%20For-Passion%20and%20Joy-blue.svg) "Programming For" 
-
 
