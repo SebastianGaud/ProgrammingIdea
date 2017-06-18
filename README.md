@@ -5,15 +5,14 @@ A collection of solution for the app from GooglePlay Store IdeaBag2 To Explore .
 
 List of All Categories: 
 
-  + [WorkingWithNumbers] (https://github.com/SebastianGaud/ProgrammingIdea/tree/master/1.%20WorkingWithNumbers)
-  + [WorkingWithText] (https://github.com/SebastianGaud/ProgrammingIdea/tree/master/2.%20WorkingWithText)
-  + [NetWorking] (https://github.com/SebastianGaud/ProgrammingIdea/tree/master/3.%20NetWorking)
-  + [EnterpriseApplication] (https://github.com/SebastianGaud/ProgrammingIdea/tree/master/4.%20EnterpriseApplication)
-  + [Threading] (https://github.com/SebastianGaud/ProgrammingIdea/tree/master/5.%20Threading)
-  + [Web] (https://github.com/SebastianGaud/ProgrammingIdea/tree/master/6.%20Web)
-  + [Files] (https://github.com/SebastianGaud/ProgrammingIdea/tree/master/7.%20Files)
-  + [Database] (https://github.com/SebastianGaud/ProgrammingIdea/tree/master/8.%20Database)
-
+  + [WorkingWithNumbers](https://github.com/SebastianGaud/ProgrammingIdea/tree/master/1.%20WorkingWithNumbers)
+  + [WorkingWithText](https://github.com/SebastianGaud/ProgrammingIdea/tree/master/2.%20WorkingWithText)
+  + [NetWorking](https://github.com/SebastianGaud/ProgrammingIdea/tree/master/3.%20NetWorking)
+  + [EnterpriseApplication](https://github.com/SebastianGaud/ProgrammingIdea/tree/master/4.%20EnterpriseApplication)
+  + [Threading](https://github.com/SebastianGaud/ProgrammingIdea/tree/master/5.%20Threading)
+  + [Web](https://github.com/SebastianGaud/ProgrammingIdea/tree/master/6.%20Web)
+  + [Files](https://github.com/SebastianGaud/ProgrammingIdea/tree/master/7.%20Files)
+  + [Database](https://github.com/SebastianGaud/ProgrammingIdea/tree/master/8.%20Database)
 
 *All the ideas behind exercises inside this repository are taken from this app on google play store: 
 https://play.google.com/store/apps/details?id=com.alansa.ideabag2&hl=it*
