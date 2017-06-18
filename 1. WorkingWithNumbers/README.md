@@ -1,34 +1,42 @@
  # List of All Exercise Inside Numbers Category:
  
-- [ ] Distance Between Two Cities ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Tax Calculator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Factorial Finder ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Happy Numbers ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Coin Flip Simulator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Household Budget Program ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Calculator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Find PI to the Nth Digit ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Find e to the Nth Digit ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Fibonacci Sequence ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Prime Factorization ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Next Prime Number ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Mortgage Calculator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Change Return Program ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Binary to Decimal and Back Converter ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Alarm Clock ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Unit Converter ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Least/Greatest Common Denominator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Kaprekar numbers ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Guess the Number ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Find the N-th Natural Number ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Neon Number ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Hardy-Ramanujan Number ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Roman Number Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Newtonian Gravity Simulation ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
-- [ ] Pascal's Triangle ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Vigen?re Cipher ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Gray Code ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Lotto ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Roman to Arabic numeral converter ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
-- [ ] Circular Primes ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
-- [ ] Pseudo-Random Number Generator ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+ # ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
+
+- [ ] Distance Between Two Cities 
+- [ ] Tax Calculator 
+- [ ] Factorial Finder 
+- [ ] Happy Numbers 
+- [ ] Coin Flip Simulator
+- [ ] Find PI to the Nth Digit 
+- [ ] Find e to the Nth Digit 
+- [ ] Fibonacci Sequence 
+- [ ] Prime Factorization 
+- [ ] Next Prime Number  
+- [ ] Change Return Program 
+- [ ] Unit Converter 
+- [ ] Least/Greatest Common Denominator 
+- [ ] Lotto 
+- [ ] Roman to Arabic numeral converter 
+
+# ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
+
+- [ ] Calculator 
+- [ ] Mortgage Calculator 
+- [ ] Binary to Decimal and Back Converter 
+- [ ] Alarm Clock 
+- [ ] Kaprekar numbers 
+- [ ] Guess the Number 
+- [ ] Find the N-th Natural Number 
+- [ ] Neon Number 
+- [ ] Hardy-Ramanujan Number 
+- [ ] Roman Number Generator 
+- [ ] Pascal's Triangle 
+- [ ] Vigen?re Cipher 
+- [ ] Gray Code 
+- [ ] Circular Primes 
+- [ ] Pseudo-Random Number Generator 
+
+# ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
+
+- [ ] Newtonian Gravity Simulation 
+- [ ] Household Budget Program 
