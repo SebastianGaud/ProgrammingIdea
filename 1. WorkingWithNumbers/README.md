@@ -2,7 +2,7 @@
  
  ### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
 
-- [ ] Distance Between Two Cities 
+- [x] Distance Between Two Cities 
 - [ ] Tax Calculator 
 - [ ] Factorial Finder 
 - [ ] Happy Numbers 
