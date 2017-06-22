@@ -1,8 +1,0 @@
-C:\Users\sebas\Documents\GitHub\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\bin\Debug\netcoreapp1.1\DistanceBetweenTwoCities.deps.json
-C:\Users\sebas\Documents\GitHub\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\bin\Debug\netcoreapp1.1\DistanceBetweenTwoCities.runtimeconfig.json
-C:\Users\sebas\Documents\GitHub\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\bin\Debug\netcoreapp1.1\DistanceBetweenTwoCities.runtimeconfig.dev.json
-C:\Users\sebas\Documents\GitHub\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\bin\Debug\netcoreapp1.1\DistanceBetweenTwoCities.dll
-C:\Users\sebas\Documents\GitHub\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\bin\Debug\netcoreapp1.1\DistanceBetweenTwoCities.pdb
-C:\Users\sebas\Documents\GitHub\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\obj\Debug\netcoreapp1.1\DistanceBetweenTwoCities.AssemblyInfo.cs
-C:\Users\sebas\Documents\GitHub\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\obj\Debug\netcoreapp1.1\DistanceBetweenTwoCities.dll
-C:\Users\sebas\Documents\GitHub\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\obj\Debug\netcoreapp1.1\DistanceBetweenTwoCities.pdb
