@@ -1,0 +1,10 @@
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\bin\Debug\netcoreapp1.1\FactorialFinderApp.deps.json
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\bin\Debug\netcoreapp1.1\FactorialFinderApp.runtimeconfig.json
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\bin\Debug\netcoreapp1.1\FactorialFinderApp.runtimeconfig.dev.json
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\bin\Debug\netcoreapp1.1\FactorialFinderApp.dll
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\bin\Debug\netcoreapp1.1\FactorialFinderApp.pdb
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\bin\Debug\netcoreapp1.1\FactorialFinderLib.dll
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\bin\Debug\netcoreapp1.1\FactorialFinderLib.pdb
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\obj\Debug\netcoreapp1.1\FactorialFinderApp.AssemblyInfo.cs
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\obj\Debug\netcoreapp1.1\FactorialFinderApp.dll
+C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderApp\obj\Debug\netcoreapp1.1\FactorialFinderApp.pdb
