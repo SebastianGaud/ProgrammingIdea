@@ -1,6 +1,0 @@
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderLib\bin\Debug\netstandard1.4\FactorialFinderLib.deps.json
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderLib\obj\Debug\netstandard1.4\FactorialFinderLib.AssemblyInfo.cs
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderLib\bin\Debug\netstandard1.4\FactorialFinderLib.dll
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderLib\bin\Debug\netstandard1.4\FactorialFinderLib.pdb
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderLib\obj\Debug\netstandard1.4\FactorialFinderLib.dll
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\FactorialFinder\src\FactorialFinderLib\obj\Debug\netstandard1.4\FactorialFinderLib.pdb
