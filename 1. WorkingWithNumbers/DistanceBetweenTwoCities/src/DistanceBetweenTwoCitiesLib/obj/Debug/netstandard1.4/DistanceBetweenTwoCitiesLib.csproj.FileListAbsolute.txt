@@ -1,6 +1,0 @@
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\src\DistanceBetweenTwoCitiesLib\bin\Debug\netstandard1.4\DistanceBetweenTwoCitiesLib.deps.json
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\src\DistanceBetweenTwoCitiesLib\bin\Debug\netstandard1.4\DistanceBetweenTwoCitiesLib.dll
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\src\DistanceBetweenTwoCitiesLib\bin\Debug\netstandard1.4\DistanceBetweenTwoCitiesLib.pdb
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\src\DistanceBetweenTwoCitiesLib\obj\Debug\netstandard1.4\DistanceBetweenTwoCitiesLib.AssemblyInfo.cs
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\src\DistanceBetweenTwoCitiesLib\obj\Debug\netstandard1.4\DistanceBetweenTwoCitiesLib.dll
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\DistanceBetweenTwoCities\src\DistanceBetweenTwoCitiesLib\obj\Debug\netstandard1.4\DistanceBetweenTwoCitiesLib.pdb

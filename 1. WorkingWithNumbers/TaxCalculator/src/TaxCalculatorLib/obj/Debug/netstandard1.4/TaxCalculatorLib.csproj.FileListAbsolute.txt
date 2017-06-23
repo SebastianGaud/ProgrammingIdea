@@ -1,6 +1,0 @@
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\TaxCalculator\src\TaxCalculatorLib\bin\Debug\netstandard1.4\TaxCalculatorLib.deps.json
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\TaxCalculator\src\TaxCalculatorLib\bin\Debug\netstandard1.4\TaxCalculatorLib.dll
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\TaxCalculator\src\TaxCalculatorLib\bin\Debug\netstandard1.4\TaxCalculatorLib.pdb
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\TaxCalculator\src\TaxCalculatorLib\obj\Debug\netstandard1.4\TaxCalculatorLib.AssemblyInfo.cs
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\TaxCalculator\src\TaxCalculatorLib\obj\Debug\netstandard1.4\TaxCalculatorLib.dll
-C:\Users\sebastiano.gaudeano\Documents\ProgrammingIdea\ProgrammingIdea\1. WorkingWithNumbers\TaxCalculator\src\TaxCalculatorLib\obj\Debug\netstandard1.4\TaxCalculatorLib.pdb
