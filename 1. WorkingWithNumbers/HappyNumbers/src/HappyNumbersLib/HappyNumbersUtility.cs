@@ -21,22 +21,45 @@ namespace HappyNumbersLib
         private static IEnumerable<int> CalculatePowOfItsDigits(int number)
         {
             var digitsOfNumber = ConvertNumberToListOfItsDigits(number);
-
+            var list = new List<int>();
             foreach (var num in digitsOfNumber)
             {
-                yield return (int) Math.Pow(num, 2);
+                list.Add((int) Math.Pow(num, 2));
             }
+
+            return list;
         }
 
-        public static bool IsHappyNumber(int number){
-            int? sumOfNumber = null;
-            
+        public static bool? IsHappyNumber(int number, ref int firstNumber, ref int numberOfIteration){
+            int sumOfNumber = 0;
+
+            if (numberOfIteration == 0)
+            {
+                firstNumber = number;
+                numberOfIteration++;
+            }
+
             foreach (var num in CalculatePowOfItsDigits(number))
             {
                 sumOfNumber += num;
+                if (sumOfNumber == firstNumber)
+                {
+                    return null;
+                }
             }
-
-            return sumOfNumber == 1 ? true : false;
+            if (sumOfNumber == 1)
+            {
+                return true;
+            }
+            else
+            {
+                if (numberOfIteration > 50)
+                {
+                    return null;
+                }
+                numberOfIteration++;
+                return IsHappyNumber(sumOfNumber, ref firstNumber, ref numberOfIteration);
+            }
         }
     }
 
