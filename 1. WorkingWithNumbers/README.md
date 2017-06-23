@@ -6,7 +6,7 @@
 - [X] Tax Calculator 
 - [X] Factorial Finder 
 - [X] Happy Numbers 
-- [ ] Coin Flip Simulator
+- [x] Coin Flip Simulator
 - [ ] Find PI to the Nth Digit 
 - [ ] Find e to the Nth Digit 
 - [ ] Fibonacci Sequence 
