@@ -3,9 +3,9 @@
  ### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
 
 - [x] Distance Between Two Cities 
-- [ ] Tax Calculator 
-- [ ] Factorial Finder 
-- [ ] Happy Numbers 
+- [X] Tax Calculator 
+- [X] Factorial Finder 
+- [X] Happy Numbers 
 - [ ] Coin Flip Simulator
 - [ ] Find PI to the Nth Digit 
 - [ ] Find e to the Nth Digit 
