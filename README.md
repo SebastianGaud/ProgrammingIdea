@@ -46,3 +46,5 @@ https://play.google.com/store/apps/details?id=com.alansa.ideabag2&hl=it*
 
 _I Took all things as it is in the app, so i can't say this exercises are really for Beginner or expert or whatever else programmer, for consistency with the app i left them so._
 
+> Sorry for some translation mistake English is not my mother language.
+
