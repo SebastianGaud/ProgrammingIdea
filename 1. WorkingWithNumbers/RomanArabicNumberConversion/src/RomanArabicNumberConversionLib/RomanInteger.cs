@@ -47,7 +47,8 @@ namespace RomanArabicNumberConversionLib
             }
             foreach (char romanDigit in romanNumber)
             {
-                switch ((RomanNumber)romanDigit)
+                RomanNumber temp = (RomanNumber) Enum.Parse(typeof(RomanNumber), romanDigit.ToString());
+                switch (temp)
                 {
                     case RomanNumber.I:
                         listOfArabianDigits.Add((int)RomanNumber.I);
@@ -70,6 +71,8 @@ namespace RomanArabicNumberConversionLib
                     case RomanNumber.M:
                         listOfArabianDigits.Add((int)RomanNumber.M);
                         break;
+                    default:
+                        throw new InvalidCastException();
                 }
             }
 
@@ -81,11 +84,12 @@ namespace RomanArabicNumberConversionLib
 
             for (int i = 0; i < romanNumberFromString.Count; i++)
             {
-                if ((i+1) > romanNumberFromString.Count)
+                if ((i+1) >= romanNumberFromString.Count)
                 {
                     arabicNumber += romanNumberFromString[i];
                     return arabicNumber;
                 }
+                
                 if (romanNumberFromString[i] >= romanNumberFromString[i+1])
                 {
                     arabicNumber += romanNumberFromString[i];
