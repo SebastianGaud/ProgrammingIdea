@@ -16,7 +16,7 @@
 - [ ] Unit Converter 
 - [ ] Least/Greatest Common Denominator 
 - [ ] Lotto 
-- [ ] Roman to Arabic numeral converter 
+- [X] Roman to Arabic numeral converter 
 
 ### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
 
