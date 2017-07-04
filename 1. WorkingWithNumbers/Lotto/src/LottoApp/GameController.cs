@@ -20,7 +20,6 @@ namespace LottoApp
             this.Gamer = gamer;
             this.HowMuchNumber = howMuchNumber;
             this._numbers = new Lotto(this.HowMuchNumber);
-            DetractGameQuoteFromGamerCash();
         }
 
         public void NewGame(PrizePool prizePool, Gamer gamer, int howMuchNumber){
@@ -45,6 +44,7 @@ namespace LottoApp
             this.Gamer.Cash -= PrizePool.GameQuote;
         }
         private bool CheckGamerNumbersWithLottoNumbers(){
+            NewRound();
             if (this.Gamer.ProvidedNumbers != null && this._numbers.ExtractedNumber.Count == this.Gamer.ProvidedNumbers.Count)
             {
                 return this._numbers.ExtractedNumber.All(this.Gamer.ProvidedNumbers.Contains);

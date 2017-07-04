@@ -24,7 +24,6 @@ namespace LottoApp
                         return;
                     case '1':
                         Console.Clear();
-
                         var game = SetGame();
                         PlayGame(game);
                         Console.Clear();
@@ -68,6 +67,7 @@ namespace LottoApp
                         break;
                     case '2':
                         Console.Clear();
+                        var round = game.MakeRound();
 
                         System.Console.WriteLine("The numbers choose by game are: " + game.GetNumbersExctracted());
 
@@ -76,7 +76,6 @@ namespace LottoApp
                             System.Console.WriteLine("You must choose your numbers first");
                             break;
                         }
-                        var round = game.MakeRound();
                         if(round){
                             System.Console.WriteLine("You won: " +  game.PrizePool.PrizePoolValue);
                             break;
@@ -140,7 +139,6 @@ namespace LottoApp
                 Name = name,
                 Cash = gamerCash
             };
-
             PrizePool prizePool = new PrizePool(prizePoolvalue, gameQuote);
 
             return new GameController(prizePool, gamer, howMuchNumber);

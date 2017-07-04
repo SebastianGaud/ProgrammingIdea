@@ -5,7 +5,7 @@ namespace LottoLib
 {
     public class Lotto
     {
-        private Random rand = new Random();
+        public Random Rand { get; set; }
         public List<int> ExtractedNumber { get; set; }
 
         public Lotto(int howMuchNumbers)
@@ -15,13 +15,12 @@ namespace LottoLib
         public string GetExtractedNumberAsFormattedString(){
             return string.Join(",", ExtractedNumber);
         }
-
         public List<int> GenerateLottoNumbers(int howMuchNumbers){
-
+            Rand = new Random();
             var numbers = new List<int>();
             for (int i = 0; i < howMuchNumbers; i++)
             {
-                var randomNumber = rand.Next(1, 100);
+                var randomNumber = Rand.Next(1, 100);
                 if (numbers.Contains(randomNumber))
                 {
                     i = i-1;
