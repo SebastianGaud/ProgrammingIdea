@@ -69,7 +69,9 @@ namespace LottoApp
                     case '2':
                         Console.Clear();
 
-                        if (game.Gamer.ProvidedNumbers.Count == 0)
+                        System.Console.WriteLine("The numbers choose by game are: " + game.GetNumbersExctracted());
+
+                        if (game.Gamer.ProvidedNumbers == null || game.Gamer.ProvidedNumbers.Count == 0)
                         {
                             System.Console.WriteLine("You must choose your numbers first");
                             break;

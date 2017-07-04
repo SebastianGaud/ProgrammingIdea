@@ -11,6 +11,9 @@ namespace LottoApp
         public PrizePool PrizePool { get; private set; }
         public Gamer Gamer { get; private set; }
 
+        public string GetNumbersExctracted(){
+            return _numbers.GetExtractedNumberAsFormattedString();
+        }
         public GameController(PrizePool prizePool, Gamer gamer, int howMuchNumber)
         {
             this.PrizePool = prizePool;
@@ -26,13 +29,10 @@ namespace LottoApp
             this.Gamer = gamer;
             this.HowMuchNumber = howMuchNumber;
             this._numbers = new Lotto(this.HowMuchNumber);
-            DetractGameQuoteFromGamerCash();
         }
 
-        public void NewRound(PrizePool prizePool){
-            this.PrizePool = prizePool;
+        public void NewRound(){
             this._numbers = new Lotto(this.HowMuchNumber);
-            DetractGameQuoteFromGamerCash();
         }
         public bool MakeRound(){
             DetractGameQuoteFromGamerCash();
