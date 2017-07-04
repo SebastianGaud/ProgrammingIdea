@@ -9,13 +9,13 @@
 - [x] Coin Flip Simulator
 - [ ] Find PI to the Nth Digit 
 - [ ] Find e to the Nth Digit 
-- [ ] Fibonacci Sequence 
+- [X] Fibonacci Sequence 
 - [ ] Prime Factorization 
 - [ ] Next Prime Number  
 - [ ] Change Return Program 
 - [ ] Unit Converter 
 - [ ] Least/Greatest Common Denominator 
-- [ ] Lotto 
+- [X] Lotto 
 - [X] Roman to Arabic numeral converter 
 
 ### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
@@ -27,7 +27,7 @@
 - [ ] Kaprekar numbers 
 - [ ] Guess the Number 
 - [ ] Find the N-th Natural Number 
-- [ ] Neon Number 
+- [X] Neon Number 
 - [ ] Hardy-Ramanujan Number 
 - [ ] Roman Number Generator 
 - [ ] Pascal's Triangle 
