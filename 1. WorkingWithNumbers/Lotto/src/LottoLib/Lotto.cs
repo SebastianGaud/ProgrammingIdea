@@ -5,6 +5,7 @@ namespace LottoLib
 {
     public class Lotto
     {
+        private Random rand = new Random();
         public List<int> ExtractedNumber { get; set; }
 
         public Lotto(int howMuchNumbers)
@@ -16,7 +17,7 @@ namespace LottoLib
         }
 
         public List<int> GenerateLottoNumbers(int howMuchNumbers){
-            Random rand = new Random();
+
             var numbers = new List<int>();
             for (int i = 0; i < howMuchNumbers; i++)
             {

@@ -63,7 +63,7 @@ namespace LottoApp
                     case '1':
                         Console.Clear();
 
-                        System.Console.WriteLine("Insert " + game.HowMuchNumber + "numbers, separeted by : '-' : ");
+                        System.Console.WriteLine("Insert " + game.HowMuchNumber + " numbers, separeted by : '-' \nThe numbers are in range 0 to 100: ");
                         game.Gamer.ProvidedNumbers =  ChooseNumbers();
                         break;
                     case '2':
