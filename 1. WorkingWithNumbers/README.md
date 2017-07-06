@@ -21,7 +21,7 @@
 ### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
 
 - [ ] Calculator 
-- ~[ ] Mortgage Calculator~ 
+- [ ] ~Mortgage Calculator~ 
 - [ ] Binary to Decimal and Back Converter 
 - [ ] Alarm Clock 
 - [ ] Kaprekar numbers 
@@ -38,5 +38,5 @@
 
 ### ![Difficulty Type](https://img.shields.io/badge/Difficulty-expert-red.svg)
 
-- ~[ ] Newtonian Gravity Simulation~ 
+- [ ] ~Newtonian Gravity Simulation~ 
 - [ ] Household Budget Program 
