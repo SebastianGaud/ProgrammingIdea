@@ -12,7 +12,7 @@
 - [X] Fibonacci Sequence 
 - [ ] Prime Factorization 
 - [ ] Next Prime Number  
-- [ ] Change Return Program 
+- [X] Change Return Program 
 - [ ] Unit Converter 
 - [ ] Least/Greatest Common Denominator 
 - [X] Lotto 
