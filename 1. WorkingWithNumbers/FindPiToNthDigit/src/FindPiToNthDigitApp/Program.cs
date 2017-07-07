@@ -1,4 +1,5 @@
 ﻿using System;
+using FindPiToNthDigitLib;
 
 namespace FindPiToNthDigitApp
 {
@@ -6,7 +7,13 @@ namespace FindPiToNthDigitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Insert numbers of PI Digits");
+            System.Console.WriteLine(
+                PiUtility.CalculatePi(
+                    Convert.ToInt32(
+                        Console.ReadLine()))
+                .Insert(1, ",")
+            );
         }
     }
 }
