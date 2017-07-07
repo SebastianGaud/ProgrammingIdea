@@ -7,10 +7,10 @@
 - [X] Factorial Finder 
 - [X] Happy Numbers 
 - [x] Coin Flip Simulator
-- [ ] Find PI to the Nth Digit 
-- [ ] Find e to the Nth Digit 
+- [X] Find PI to the Nth Digit 
+- [ ] ~Find e to the Nth Digit~ 
 - [X] Fibonacci Sequence 
-- [ ] Prime Factorization 
+- [X] Prime Factorization 
 - [ ] Next Prime Number  
 - [X] Change Return Program 
 - [ ] Unit Converter 
@@ -20,9 +20,9 @@
 
 ### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Intermediate-orange.svg)
 
-- [ ] Calculator 
+- [ ] ~Calculator~ 
 - [ ] ~Mortgage Calculator~ 
-- [ ] Binary to Decimal and Back Converter 
+- [X] Binary to Decimal and Back Converter 
 - [ ] Alarm Clock 
 - [ ] Kaprekar numbers 
 - [ ] Guess the Number 
