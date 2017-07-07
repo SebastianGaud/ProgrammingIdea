@@ -5,8 +5,6 @@ namespace PrimeFactorizationLib
 {
     public class PrimeFactorization
     {
-
-
         public static Dictionary<int, int> GetPrimeFactors(int choice)
         {
             var primeFactors = new Dictionary<int, int>();
@@ -24,10 +22,9 @@ namespace PrimeFactorizationLib
                     primeFactors.Add(primefactor, 1);
                 }
             }
-
-
             return primeFactors;
         }
+        
         //Essenziali find first primefactor i can use.
         private static int FindFirstValidPrimeFactors(int number)
         {
