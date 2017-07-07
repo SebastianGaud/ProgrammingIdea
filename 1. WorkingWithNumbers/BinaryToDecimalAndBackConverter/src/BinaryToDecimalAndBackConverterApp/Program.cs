@@ -17,8 +17,6 @@ namespace BinaryToDecimalAndBackConverterApp
             System.Console.WriteLine("Convert with hard way decimal to binary: " + ConvertBinary.CovnertDecimalToBinaryHardWay(dec));
             System.Console.WriteLine("Convert with easy way binary to decimal: " + ConvertDecimal.ConvertBinaryToDecimal(binary));
             System.Console.WriteLine("Convert with hard way binary to decimal: " + ConvertDecimal.ConvertBinaryToDecimal(binary));
-            
-
         }
     }
 }
