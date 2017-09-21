@@ -3,7 +3,7 @@
 ### ![Difficulty Type](https://img.shields.io/badge/Difficulty-Beginner-green.svg)
 
 - [ ] Guestbook / Journal 
-- [ ] Fizz Buzz 
+- [x] Fizz Buzz 
 - [ ] Reverse a String 
 - [ ] Count Vowels 
 - [ ] Check if Palindrome 
